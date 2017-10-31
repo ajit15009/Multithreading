@@ -17,8 +17,6 @@ public class producer implements Runnable{
 	public void getsize()
 	{
 		System.out.println(temp.size());
-		System.out.println(rain.size());
-		System.out.println(humid.size());
 		
 	}
 	public void run()
